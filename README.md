@@ -11,11 +11,19 @@ A curated collection of machine learning projects, algorithms, exploratory data 
 
 ---
 
-## 📂 Project Structure
+## 📂 Projects Directory
 
-```text
-├── notebooks/           # Jupyter notebooks for exploratory data analysis and modeling
-├── datasets/            # Sample datasets (or loading scripts)
-├── src/                 # Reusable Python scripts and utility functions
-├── README.md            # Repository documentation
-└── requirements.txt     # Python dependencies
+Here is the complete list of machine learning projects included in this repository:
+
+| # | Project Name | Description | Tech Stack | Link |
+| :- | :--- | :--- | :--- | :--- |
+| **01** | **Iris Flower Classification** | End-to-end K-Nearest Neighbors (KNN) classification model with evaluation metrics and confusion matrix visualization. | Python, Scikit-Learn, Matplotlib | [View Notebook](Iris.ipynb) |
+| **02** | *Coming Soon...* | *Future ML project description will appear here.* | *TBD* | *In Progress* |
+
+---
+
+## 🛠️ Quick Start
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/sanyamtyagi229/ML-Projects-for-learning.git](https://github.com/sanyamtyagi229/ML-Projects-for-learning.git)
